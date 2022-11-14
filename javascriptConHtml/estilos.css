@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+
+.testUno {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.testDos {
+    height: 100px;
+    width: 100px;
+    background-color: #ffff00;
+}
+
+.testTres {
+    height: 100px;
+    width: 100px;
+    background-color: #000000;
+}
